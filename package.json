@@ -1,0 +1,33 @@
+{
+  "name": "inhabit-utils-element-exists",
+  "version": "1.0.0",
+  "description": "Ensures that elements exists on the page based on jquery promise and search",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkadiumInc/inhabit-utils-element-exists.git"
+  },
+  "keywords": [
+    "DOM",
+    "element",
+    "exists",
+    "HTML"
+  ],
+  "author": "Arkadium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArkadiumInc/inhabit-utils-element-exists/issues"
+  },
+  "homepage": "https://github.com/ArkadiumInc/inhabit-utils-element-exists#readme",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.3.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sourcemaps": "^1.9.0",
+    "gulp-watch": "^4.3.10"
+  }
+}
